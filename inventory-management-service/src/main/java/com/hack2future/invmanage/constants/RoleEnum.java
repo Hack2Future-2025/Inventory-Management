@@ -1,7 +1,7 @@
 package com.hack2future.invmanage.constants;
 
 public enum RoleEnum {
-  ROLE_USER(1L, "Read-only User"),
+  ROLE_USER(1L, "Read Only User"),
   ROLE_MODERATOR(2L, "Moderator"),
   ROLE_ADMIN(3L, "Admin");
 
